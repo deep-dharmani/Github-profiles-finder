@@ -3,7 +3,6 @@
 A backend application built with **Python and FastAPI** that allows users to search for GitHub profiles using a username and retrieve profile information through API requests.
 
 This project demonstrates REST API development, request handling, data validation, and integration with GitHub.
-link:http://127.0.0.1:8000/docs
 ## ✨ Features
 
 - 🔎 **GitHub User Search:** Search for GitHub users using their usernames.
